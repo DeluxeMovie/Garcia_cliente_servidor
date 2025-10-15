@@ -1,6 +1,6 @@
 # Sistema Cliente-Servidor con FIFO
 ## Autor
-Este laboratorio fue realizado por Ángel Daniel García Santana, de la Pontificia Universidad Javeriana
+Este laboratorio fue realizado por Ángel Daniel García Santana de la Pontificia Universidad Javeriana
 
 ## Descripción
 Implementación de un sistema cliente-servidor en C que utiliza FIFOs para comunicación entre procesos.
